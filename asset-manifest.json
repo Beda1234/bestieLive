@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bestieLive/static/css/main.7d09f8e3.css",
+    "main.js": "/bestieLive/static/js/main.1c6cc592.js",
+    "static/js/787.75202cef.chunk.js": "/bestieLive/static/js/787.75202cef.chunk.js",
+    "index.html": "/bestieLive/index.html",
+    "main.7d09f8e3.css.map": "/bestieLive/static/css/main.7d09f8e3.css.map",
+    "main.1c6cc592.js.map": "/bestieLive/static/js/main.1c6cc592.js.map",
+    "787.75202cef.chunk.js.map": "/bestieLive/static/js/787.75202cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d09f8e3.css",
+    "static/js/main.1c6cc592.js"
+  ]
+}
